@@ -17,5 +17,9 @@ these are :
 8. SEABORN
 9. MATPLOTLIB
 10. MACHINE LEARNING SUPERVISED MODELS
+11. DJANGO
+12. FLASK
+13. C++
+14. SCIKIT LEARNING
 
 My current interest : Machine learning and data science
